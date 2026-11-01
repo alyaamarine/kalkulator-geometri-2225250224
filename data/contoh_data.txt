@@ -1,0 +1,3 @@
+bangun_datar: persegi
+panjang_sisi_contoh: 5
+catatan: data ini digunakan untuk pengujian batas normal pada modul input_data.py
